@@ -1,2 +1,7 @@
 # crypto-hunter
-Using MaterialUI and ChartJs
+
+
+## Build using 
+
+  ###MaterialUI
+  ##ChartJs
