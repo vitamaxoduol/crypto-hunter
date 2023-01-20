@@ -2,6 +2,5 @@
 
 
 ## Build using 
-
-  ###MaterialUI
-  ##ChartJs
+MaterialUI
+ChartJs
