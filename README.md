@@ -1,4 +1,4 @@
-# crypto-hunter
+# Crypto-hunter
 
 
 ## Build using 
