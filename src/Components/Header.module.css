@@ -1,0 +1,22 @@
+.root {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: gold;
+}
+
+.select {
+  width: 100px;
+  height: 40px;
+  margin-left: 15px;
+}
+
+.dark-theme {
+  background-color: black;
+  color: white;
+}
